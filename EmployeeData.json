@@ -1,5 +1,5 @@
 {
-    "Employees":[
+    "Employees": [
     {
         "id": 4051,
         "name": "manoj",
@@ -1595,5 +1595,5 @@
         "creditBalance": 1,
         "myCash": 0
     }
-]
+  ]
 }
