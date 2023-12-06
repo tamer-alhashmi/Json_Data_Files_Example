@@ -5,7 +5,7 @@
       "id": 2119,
       "description": "101",
       "location": "19 Russell Square,\nBrighton, BN1 2EE, United Kingdom",
-      "profilePicture": "assets/images/Russell/Russell_1.jpg",
+      "profilePicture": "Russell/Russell_1.jpg",
       "images": null,
       "likeDislike": {
         "likes": 0,
@@ -18,7 +18,7 @@
       "id": 2120,
       "description": "We have a multicultural team that are always available to help. We are just a phone call or message away. Please feel free to contact us at anytime and we will make it work for you.",
       "location": "171-173 Malvern Road,\nLondon, NW6 5PY, United Kingdom",
-      "profilePicture": "assets/images/Malvern/Malvern1.jpeg",
+      "profilePicture": "/Malvern/Malvern1.jpeg",
       "images": null,
       "likeDislike": {
         "likes": 0,
