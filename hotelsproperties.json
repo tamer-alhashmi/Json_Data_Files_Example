@@ -9,7 +9,7 @@
       "profilePicture": "assets/images/Russell/Russell_1.jpg",
       "images": null,
       "likeDislike": {
-        "likes": 0,
+        "likes": 2,
         "dislikes": 0,
         "userAction": 2
       }
@@ -23,7 +23,7 @@
       "profilePicture": "assets/images/Malvern/Malvern1.jpg",
       "images": null,
       "likeDislike": {
-        "likes": 0,
+        "likes": 3,
         "dislikes": 0,
         "userAction": 2
       }
@@ -37,7 +37,7 @@
       "profilePicture": "assets/images/Avalon/Avalon1.jpeg",
       "images": null,
       "likeDislike": {
-        "likes": 0,
+        "likes": 6,
         "dislikes": 0,
         "userAction": 2
       }
@@ -51,7 +51,7 @@
       "profilePicture": "assets/images/Russell/Russell_1.jpg",
       "images": null,
       "likeDislike": {
-        "likes": 0,
+        "likes": 2,
         "dislikes": 0,
         "userAction": 2
       }
@@ -66,7 +66,7 @@
       "images": null,
       "likeDislike": {
         "likes": 0,
-        "dislikes": 0,
+        "dislikes": 12,
         "userAction": 2
       }
     },
@@ -136,7 +136,7 @@
       "images": null,
       "likeDislike": {
         "likes": 6,
-        "dislikes": 0,
+        "dislikes": 3,
         "userAction": 4
       }
     },
@@ -144,7 +144,7 @@
       "name": "Crofton House Hotel",
       "id": 2162,
       "reception": "unmanned",
-      "description": "Stay in the heart of Torquay Crofton House Hotel is exclusively . Set in an 1850's villa offering guests a choice of 16 suites and rooms, all with flat-screen TV with multiple Free view channels, complimentary tea, coffee, eco-friendly toiletries and Wi-Fi. There is private and street parking. Guests have repeatedly highly rated Crofton House for value and quality of service.\n\n",
+      "description": "Stay in the heart of Torquay Crofton House Hotel exclusively. Set in an 1850's villa offering guests a choice of 16 suites and rooms, all with flat-screen TV with multiple Free view channels, complimentary tea, coffee, eco-friendly toiletries and Wi-Fi. There is private and street parking. Guests have repeatedly highly rated Crofton House for value and quality of service.\n\n",
       "location": "17 Croft Road,\nTorquay, TQ2 5TZ, United Kingdom",
       "profilePicture": "assets/images/Crofton/Crofton1.jpg",
       "images": null,
@@ -163,7 +163,7 @@
       "profilePicture": "assets/images/Bonair/Bonair1.png",
       "images": null,
       "likeDislike": {
-        "likes": 0,
+        "likes": 3,
         "dislikes": 0,
         "userAction": 2
       }
@@ -177,7 +177,7 @@
       "profilePicture": "assets/images/Alumhurst/Alumhurst1.png",
       "images": null,
       "likeDislike": {
-        "likes": 0,
+        "likes": 4,
         "dislikes": 0,
         "userAction": 2
       }
